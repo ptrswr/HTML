@@ -1,9 +1,0 @@
-Stworzyłem 2 strony w ramach ćwiczenia. Jedna strona jest startowa (index.html), druga zawiera formularz (form.html). 
-Całość formatowania zawarłem w pliku styles.css. 
-Strona startowa zawiera nagłówek, menu w formie tabeli linków (na razie aktywne linki to jedynie Home i Form), searchbar,
-sekcję z listą linków do filmów na youtubie. Filmy są otwierane w iframe znajdującym się po prawej stronie. 
-Na końcu znajduję się stopka, do której dodałem ikony portali społecznościowych.
-
-Na stronie z formularzem znajduję się ten sam nagłówek, menu i stopka. Do tego dodałem rózne elementy input pogrupowane tematycznie w fieldsetach. Na końcu formularza znajduję się przycisk submit.
-Całość została wykonana w oparciu o pozycjonowanie za pomocą float.
-Największe problemy miałem właśnie z pozycjonowaniem elementów tzn. paddingami, marginami, displayem i floatem.
