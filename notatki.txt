@@ -1,0 +1,61 @@
+<h1> do <h6> nagłówki
+<p> paragraf
+  style - określa styl tekstu, font, kolor, rozmiar
+  title - to co sie wyswietli jak najedziemy myszką
+<head> organizacja strony, tytuł itp
+<a> link, potem href =""
+<img> obrazek
+  src="" ścieżka do obrazka
+  width, height - wysokosc szerokosc
+  alt - alernatywny tekst gdyby obrazek się nie wyświetlił
+<body> content strony
+<html> oznacza początek/koniec dokumentu
+  lang - specyfikuje język dokumentu
+<pre> preformatowany tekst, tak jak napiszemy w srodku tak html to wyswietli (entery spacje itd)
+
+<br> enter
+<hr> linia oddzielająca
+
+ formatowanie tekstu
+<b> - Bold text
+<strong> - Important text - tez jest w boldzie
+<i> - Italic text
+<em> - Emphasized text -  to to samo co italic tylko screen reader inaczej go czyta
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text  - linia przekreśla tekst
+<ins> - Inserted text  - coś zostało dołożone do tekstu, zazwyczaj podkreślone
+<sub> - Subscript text -  w dolnej częsci np jak h2o to tam gdzie dwójka
+<sup> - Superscript text -  w górnej częsci np potęga
+
+cytaty
+<blockquote> blok tekstu zawierający cytat jest inaczej formatowany
+  cite="" adres źródła
+<q> fragment tekstu będacy cytatem, ten element dodaje cudzysłowy
+<abbr> skrót np WHO, a jak najedziemy to będzie pełen tekst
+  <abbr title="World Health Organization">WHO</abbr>
+<address> tam dajemy dane do autora, są defaultowo w italicu
+<cite> tytuł pracy np nazwa obrazu, jest w italicu
+<bdo> orientacja tekstu, dir to kierunek
+  <bdo dir="rtl">This text will be written from right to left</bdo>
+
+Komentarz
+<!--tu komentarz -->
+
+Kolory
+
+style="background-color: - kolor tła
+style="color: - kolor tekstu
+style="border:2px solid Tomato;" - ramka z pełnej kreski o grubosci 2px, o kolorze czerwonym
+
+kolory można też podawac za pomocą rgb, hex i hsl
+
+CSS
+
+padding - ile miejsca od tekstu do ramki
+margin - ile miejsca pomiedzy kolejnymi paragrafami
+
+Linki
+
+obrazy
+trzeba dodać style zanim zmienimy rozmiary
