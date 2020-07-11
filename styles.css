@@ -140,13 +140,18 @@ form {
   padding: 1em;
    
 }
+#submit {
+  margin-top: 10px;
+  font-size: 17px;
+  border-radius: 5px;
+  border-color: blue;
+}
 
 /* footer */
 
 footer {
   background-color:rgb(28, 92, 117);
-  margin-top: 0px;
-  height: auto;
+  padding:10px;
   text-align: center;
   color: white;
 }
@@ -154,7 +159,7 @@ footer {
   display: inline-block;
 }
 #copyrights {
-    margin-top: 10px;
+    margin-top: 20px;
     padding-bottom: 10px;
 }
 
